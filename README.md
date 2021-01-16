@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi! 👋
+
+
+## Notable Projects
+<a href="https://github.com/dev-sda1/CentroBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sda1&repo=CentroBot&show_owner=true&theme=dark&hide_border=true"></a>
+<a href="https://github.com/dev-sda1/Art-Sharing-Site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sda1&repo=Art-Sharing-Site&show_owner=true&theme=dark&hide_border=true"></a>
+
+
+## Sub-Projects
+<a href="https://github.com/dev-sda1/projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sda1&repo=projects&show_owner=true&theme=dark&hide_border=true"></a>
+
+
+
+## Top langs
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sda1&show_icons=true&hide_border=false&theme=dark&hide_border=true">
+
+## External stats
+<img src="https://github-readme-stats.vercel.app/api?username=dev-sda1&show_icons=true&hide_border=false&theme=dark&hide_border=true" alt="My stats">
 
 <!--
 **dev-sda1/dev-sda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
