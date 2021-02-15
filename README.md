@@ -4,6 +4,7 @@
 ## Notable Projects
 <a href="https://github.com/dev-sda1/CentroBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sda1&repo=CentroBot&show_owner=true&theme=dark&hide_border=true"></a>
 <a href="https://github.com/dev-sda1/ordinary-paper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sda1&repo=ordinary-paper&show_owner=true&theme=dark&hide_border=true"></a>
+<a href="https://github.com/dev-sda1/bogosort"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sda1&repo=bogosort&show_owner=true&theme=dark&hide_border=true"></a>
 
 
 ## Sub-Projects
