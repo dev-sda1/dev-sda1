@@ -8,6 +8,8 @@
 
 ## Sub-Projects
 <a href="https://github.com/dev-sda1/projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sda1&repo=projects&show_owner=true&theme=dark&hide_border=true"></a>
+<a href="https://github.com/dev-sda1/spotify-web-presence"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sda1&repo=projects&show_owner=true&theme=dark&hide_border=true"></a>
+
 
 ## Top langs (CSS doesn't count)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sda1&show_icons=true&hide_border=false&theme=dark&hide_border=true">
