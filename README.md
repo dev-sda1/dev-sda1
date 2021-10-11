@@ -13,7 +13,7 @@
 ## Top langs (CSS doesn't count)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sda1&show_icons=true&hide_border=false&theme=dark&hide_border=true">
 
-## Stats >w>
+## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=dev-sda1&show_icons=true&hide_border=false&theme=dark&hide_border=true" alt="My stats">
 
 <!--
