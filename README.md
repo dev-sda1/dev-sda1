@@ -5,7 +5,7 @@
 <a href="https://github.com/dev-sda1/ShareX-Uploader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sda1&repo=ShareX-Uploader&show_owner=true&theme=dark&hide_border=true"></a>
 <a href="https://github.com/dev-sda1/spotify-web-presence"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sda1&repo=spotify-web-presence&show_owner=true&theme=dark&hide_border=true"></a>
 
-<a href="https://github.com/dev-sda1/DiscBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sda1&repo=DiscBot&show_owner=true&theme=dark&hide_border=true"></a>
+<a href="https://github.com/bruneltech/website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bruneltech&repo=website&show_owner=true&theme=dark&hide_border=true"></a>
 <a href="https://github.com/dev-sda1/projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sda1&repo=projects&show_owner=true&theme=dark&hide_border=true"></a>
 
 ## Stats
