@@ -1,27 +1,7 @@
-### Hi! 👋
+## 👋 Hello there!
 
+I'm a Software Dev currently based in London at University with experience in various fields from Web Development to Embedded Device Management and Development.
 
-## Projects
-<a href="https://github.com/dev-sda1/ShareX-Uploader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sda1&repo=ShareX-Uploader&show_owner=true&theme=dark&hide_border=true"></a>
-<a href="https://github.com/dev-sda1/spotify-web-presence"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sda1&repo=spotify-web-presence&show_owner=true&theme=dark&hide_border=true"></a>
+I'm currently looking for grad roles with my most recent work has been the design and integration of an [embedded device ecosystem](https://www.brunel.ac.uk/computer-science/news-and-events/news/Empowering-the-Future-SwiftBots-and-Innovation-in-Computer-Science-Education) for the computer science department at our University with over 500 concurrent active users over the course of the year.
 
-<a href="https://github.com/bruneltech/website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bruneltech&repo=website&show_owner=true&theme=dark&hide_border=true"></a>
-<a href="https://github.com/dev-sda1/projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-sda1&repo=projects&show_owner=true&theme=dark&hide_border=true"></a>
-
-## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=dev-sda1&show_icons=true&hide_border=false&theme=dark&hide_border=true" alt="My stats">
-
-<!--
-**dev-sda1/dev-sda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website: https://pyxlwuff.dev/
