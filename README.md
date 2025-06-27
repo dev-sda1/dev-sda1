@@ -1,4 +1,4 @@
-Software Engineer - Final Year CS Student [@BrunelCS](https://github.com/brunelcs)
+Software Engineer - CS Graduate [@BrunelCS](https://github.com/brunelcs)
 
 
 Website: https://pyxlwuff.dev/
